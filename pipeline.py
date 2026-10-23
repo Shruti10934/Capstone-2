@@ -297,7 +297,7 @@ def run_pipeline():
                 fname = f"{idx:02d}_x{cx}.png"
                 cv2.imwrite(os.path.join(image_out_dir, zone, fname), cropped)
 
-        bbox_save_path = os.path.join(image_out_dir, "segmentation_bboxes.png")
+        bbox_save_path = os.path.join(image_out_dir, "bboxes.png")
         cv2.imwrite(bbox_save_path, bbox_img)
 
     print("Process successfully completed!")

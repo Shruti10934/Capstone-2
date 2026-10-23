@@ -2,5 +2,7 @@ venv/
 dataset/images/
 classes/
 output/segmented-characters
+output/04-classification/**/*.png
 
 .agent/
+docs/

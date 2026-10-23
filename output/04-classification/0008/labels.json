@@ -1,0 +1,33 @@
+[
+    {
+        "file": "00_x7.png",
+        "label": "character_23_ba"
+    },
+    {
+        "file": "01_x21.png",
+        "label": "character_33_ha"
+    },
+    {
+        "file": "02_x35.png",
+        "label": "character_7_chha"
+    },
+    {
+        "file": "03_x41.png",
+        "label": "character_23_ba"
+    },
+    {        "file": "04_x55.png",
+        "label": "character_19_dha"
+    },
+    {
+        "file": "05_x72.png",
+        "label": "digit_8"
+    },
+    {
+        "file": "06_x78.png",
+        "label": "character_33_ha"
+    },
+    {
+        "file": "07_x85.png",
+        "label": "character_8_ja"
+    }
+]
