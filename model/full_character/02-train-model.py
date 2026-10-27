@@ -154,8 +154,8 @@ def train_model(data_dir, output_path, epochs, batch_size, lr):
 
 
 if __name__ == "__main__":
-    DATA_DIR = "model/classes"
-    OUTPUT_PATH = "model/resnet18.pth"
+    DATA_DIR = "model/full_character/dataset"
+    OUTPUT_PATH = "model/full_character/resnet18.pth"
     BATCH_SIZE = 64
     EPOCHS = 11
     LR = 0.001

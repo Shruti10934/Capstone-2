@@ -100,7 +100,7 @@ def process_image(img_path, output_path):
 
 
 def main():
-    base_path = "classes"
+    base_path = os.path.join(os.path.dirname(__file__), "dataset")
     sets = [("training", "train"), ("testing", "test")]
 
     for input_name, output_name in sets:
