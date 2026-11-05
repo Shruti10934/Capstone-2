@@ -20,6 +20,19 @@ FONTS = {
     "Eczar-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/eczar/Eczar%5Bwght%5D.ttf",
     "Rajdhani-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
     "Rajdhani-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+    "Baloo2-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/Baloo2%5Bwght%5D.ttf",
+    "Amita-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/amita/Amita-Regular.ttf",
+    "Amita-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/amita/Amita-Bold.ttf",
+    "Tillana-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/tillana/Tillana-Regular.ttf",
+    "Tillana-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/tillana/Tillana-Bold.ttf",
+    "Laila-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/laila/Laila-Regular.ttf",
+    "Laila-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/laila/Laila-Bold.ttf",
+    "Palanquin-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/palanquin/Palanquin-Regular.ttf",
+    "Palanquin-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/palanquin/Palanquin-Bold.ttf",
+    "Sarala-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarala/Sarala-Regular.ttf",
+    "Glegoo-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/glegoo/Glegoo-Regular.ttf",
+    "Glegoo-Bold.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/glegoo/Glegoo-Bold.ttf",
+    "AnekDevanagari-Regular.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/anekdevanagari/AnekDevanagari%5Bwdth%2Cwght%5D.ttf",
 }
 
 
